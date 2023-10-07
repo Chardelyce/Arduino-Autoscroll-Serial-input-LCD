@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>This is just a little quick project I have made it can be used for quite a few things i would imagine :) </strong></p>
-<p><strong><img src="https://img.shields.io/github/commit-activity/m/chardelyce/Autoscroll-Serial-input-LCD?color=green&amp;label=arduino-serial&amp;style=plastic" alt="" /></strong></p>
+
 <p><strong>How- to assemble:</strong></p>
 <p><strong>via: <a href="https://docs.arduino.cc/learn/electronics/lcd-displays#circuit" target="_blank">Here's how to assemble the arduino!</a></strong></p>
 <p><strong><img src="https://docs.arduino.cc/static/7d7b6e99f40c7e55f2e9c6175c6db5b5/a6d36/LCD_Base_bb_Fritz.png" alt="assemble the arduino lcd " width="650" height="359" /></strong></p>
