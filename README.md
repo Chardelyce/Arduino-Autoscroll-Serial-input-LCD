@@ -1,4 +1,5 @@
-<h1 style="text-align: center;"><strong>Arduino Serial Input Auto-Scroll!</strong></h1>
+<h1 style="text-align: center;">
+  <strong>Arduino Serial Input Auto-Scroll!</strong></h1>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>This is just a little quick project I have made it can be used for quite a few things i would imagine :) </strong></p>
